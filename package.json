@@ -1,0 +1,17 @@
+{
+	"name": "docswap",
+	"version": "1.0.0",
+	"description": "DOM document replacement tools",
+	"main": "ts/index.ts",
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"scripts": {
+	  "dist": "webpack",
+	  "test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Eli Grey",
+	"license": "MIT"
+	}
